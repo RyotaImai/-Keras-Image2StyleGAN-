@@ -29,4 +29,7 @@ res = 1024
 stage = 18
 ```
 4. あとは全部実行するだけ!!!　　
-綺麗なエル様が得られます。
+Elle Fanningのお顔を借りております。。。  
+左 : オリジナル
+右 : embedding後の画像  
+<img src="https://github.com/RyotaImai/-Keras-Image2StyleGAN-/blob/master/md_images/Elle-faning%20(2).jpg" width=50%><img src="https://github.com/RyotaImai/-Keras-Image2StyleGAN-/blob/master/md_images/Elle(2)_5000.jpg" width=50%>
