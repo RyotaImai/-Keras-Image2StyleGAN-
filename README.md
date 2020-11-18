@@ -1,4 +1,18 @@
 # [Keras]Image2StyleGAN++
+I FOUND IMPORTANT BUG. NOW I'M FIXING...
+PLEASE DON'T USE THIS REPO BY FINISHED.
+
+
+
+
+
+
+
+
+
+
+
+
 # これは何？
 Image2StyleGAN++(https://arxiv.org/abs/1911.11544) をKerasで実装してみました。  
 ラボで使いまわすようなのでassertとか何も書いてないです。気が向いたらそこらへん整備します...  
